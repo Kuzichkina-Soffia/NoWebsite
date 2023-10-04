@@ -1,0 +1,85 @@
+
+body{
+    background-size: 100%;
+    background-image: url(Foto.jpg);
+}
+.welcome{
+    font-size: 2em;
+    position:absolute;
+    width:100%;
+    top:50%;
+    max-width: 100%;
+    height:auto;
+    text-align:center;
+    color: rgb(4, 4, 4);
+    background-size: contain;
+}
+
+table {
+    width: 100%;
+    background-color: #ffffff;
+    outline: 15px solid #0e0e0e;
+    color: #ffffff;
+    font-family: 'Bahnschrift Condensed';
+ }
+
+  td a{
+    font-size: 20px ;
+    color: #ffffff;
+    text-decoration: none;
+  }
+
+  td button {
+    font-size: 20px ;
+    color: #ffffff;
+    border: none;
+    background: none;
+    font-family: 'Bahnschrift Condensed';
+  }
+
+.wow{
+    width:500px;
+    height:100px;
+    background:yellow
+}
+
+.button{
+    font-size: 20px ;
+    color: #0e0e0e;
+    border: none;
+    background: none;
+    font-family: 'Bahnschrift Condensed';
+
+}
+
+/* .menu{
+    display: flex;
+    background-color: rgb(14, 14, 14);
+    color: #ffffff;
+    outline: 15px solid rgb(14, 14, 14);
+    font-family: 'Bahnschrift Condensed';
+} */
+
+/* .link{
+    display: flex;
+    background-color: rgb(14, 14, 14);
+    color: #ffffff;
+    text-decoration: none;
+    outline: 15px solid rgb(14, 14, 14);
+    font-family: 'Bahnschrift Condensed';
+} */
+
+/* .container div{
+    outline: 2px solid rgb(182, 132, 228);
+    padding: 10px;
+    margin: 20px;
+    box-shadow: 5px 5px 20px black;
+    color: blue;
+}
+
+.inp {
+    display: inline-block;
+    margin: 20px;
+    padding: 10px;
+    color: blue;
+} */
